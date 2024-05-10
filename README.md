@@ -1,5 +1,6 @@
 # Gemini linguagem natural para linguagem sql
 Projeto de tradução da linguagem natural para linguagem SQL utilizando a Inteligência Artificial Generativa do Google o Gemini.
+Realizado como desafio da Imersão Inteligência Artificial 2ª Edição da Alura.
 
 A Ideia do projeto é receber uma pergunta simples sobre informações de uma base de dados que possivelmente seria feita pela área de negócios, pessoas não programadoras ou stakeholders, traduzir a pergunta para linguagem sql, e retornar o resultado.
 
