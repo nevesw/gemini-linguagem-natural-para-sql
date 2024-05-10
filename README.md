@@ -26,4 +26,3 @@ Para executar este notebook no Google Colab, siga estas etapas:
     * As saídas da execução serão exibidas abaixo de cada célula.
 4. **Salvar e compartilhar:**
     * **Salvar:** O notebook é salvo automaticamente no seu Google Drive.
-    *
