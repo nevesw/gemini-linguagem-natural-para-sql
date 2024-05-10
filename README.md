@@ -6,6 +6,8 @@ A Ideia do projeto é receber uma pergunta simples sobre informações de uma ba
 
 ## Executando este Notebook no Google Colab
 
+*Para utilização é nescessário possuir uma API Key do Gemini.
+
 Para executar este notebook no Google Colab, siga estas etapas:
 
 1. **Acesse o Google Colab:** https://colab.research.google.com/
